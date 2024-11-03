@@ -10,14 +10,16 @@ An excuse, suggested by a good man, to start a Cpp project.
 Organisations
 * Khronos Group, [WP](https://en.wikipedia.org/wiki/Khronos_Group), open standards, industry group
 * Joint Development Foundation, [WS](https://jointdevelopment.org/), Linux Foundation Project, open standards
-* oneAPI, [WS](https://oneapi.io/), 
+* oneAPI, [WS](https://oneapi.io/),
+* hgpu, [WS](https://hgpu.org/), high performance computing on graphics procesing units
 * Unified Acceleration Foundation UXL, [WS](https://uxlfoundation.org/), oneAPI, open source, 
 * 
 
 Programming
 * Assembly
 * C/Cpp, single platform, sequencial programming, cpu, ISO
-* Sycl, [WP](https://en.wikipedia.org/wiki/SYCL), [WS](https://sycl.tech/), heterogenous platforms, parallel programming, acceleration, streaming, multi platform/device, cpu/gpu/fpga, base Cpp 17/20 ISO, Khronos Group, 
+* Sycl, [WP](https://en.wikipedia.org/wiki/SYCL), [WS](https://sycl.tech/), heterogenous platforms, parallel programming, acceleration, streaming, multi platform/device, cpu/gpu/fpga, base Cpp 17/20 ISO, Khronos Group,
+* Vulkan, WS, Khronos Group, low level graphics processor programming, 
 
 References
 * Compute shaders, stream processing, real time, high throughput
