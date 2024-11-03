@@ -9,8 +9,9 @@ An excuse, suggested by a good man, to start a Cpp project.
 
 Organisations
 * Khronos Group, [WP](https://en.wikipedia.org/wiki/Khronos_Group), open standards, industry group
-* Joint Development Foundation, [WS](https://jointdevelopment.org/), Linux Foundation Project
-* Unified Acceleration Foundation UXL, [WS](https://uxlfoundation.org/), oneApi, open source, 
+* Joint Development Foundation, [WS](https://jointdevelopment.org/), Linux Foundation Project, open standards
+* oneAPI, [WS](https://oneapi.io/), 
+* Unified Acceleration Foundation UXL, [WS](https://uxlfoundation.org/), oneAPI, open source, 
 * 
 
 Programming
