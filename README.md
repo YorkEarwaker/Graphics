@@ -12,7 +12,7 @@ Organisations
 Programming
 * Assembly
 * C/Cpp, single platform, sequencial programming, cpu, ISO
-* Sycl, [WP](https://en.wikipedia.org/wiki/SYCL), heterogenous platforms, parallel programming, acceleration, streaming, multi platform/device, cpu/gpu/fpga, base Cpp 17 ISO, Khronos Group, 
+* Sycl, [WP](https://en.wikipedia.org/wiki/SYCL), [WS](https://sycl.tech/), heterogenous platforms, parallel programming, acceleration, streaming, multi platform/device, cpu/gpu/fpga, base Cpp 17/20 ISO, Khronos Group, 
 
 References
 * Compute shaders, stream processing, real time, high througput
