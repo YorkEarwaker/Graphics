@@ -15,7 +15,7 @@ Programming
 * Sycl, [WP](https://en.wikipedia.org/wiki/SYCL), [WS](https://sycl.tech/), heterogenous platforms, parallel programming, acceleration, streaming, multi platform/device, cpu/gpu/fpga, base Cpp 17/20 ISO, Khronos Group, 
 
 References
-* Compute shaders, stream processing, real time, high througput
+* Compute shaders, stream processing, real time, high throughput
 * GPU
 * Rendering, WP 
 * Shader, [WP](https://en.wikipedia.org/wiki/Shader)
