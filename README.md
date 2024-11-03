@@ -11,12 +11,13 @@ Organisations
 
 Programming
 * Assembly
-* C/Cpp
-* Shading Language, [WP](https://en.wikipedia.org/wiki/Shading_language)
+* C/Cpp, single platform, sequencial programming, cpu, ISO
+* Sycl, [WP](https://en.wikipedia.org/wiki/SYCL), heterogenous platforms, parallel programming, acceleration, streaming, multi platform/device, cpu/gpu/fpga, base Cpp 17 ISO, Khronos Group, 
 
 References
 * Compute shaders, stream processing, real time, high througput
 * GPU
 * Rendering, WP 
 * Shader, [WP](https://en.wikipedia.org/wiki/Shader)
+* Shading Language, [WP](https://en.wikipedia.org/wiki/Shading_language)
 
