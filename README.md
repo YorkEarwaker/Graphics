@@ -5,6 +5,10 @@ Exploring relation, if there is any to be found with current tech, between graph
 
 An excuse, suggested by a good man, to start a Cpp project.
 
+Organisations
+* Khronos Group, [WP](https://en.wikipedia.org/wiki/Khronos_Group), open standards, industry group
+* ...
+
 Programming
 * Assembly
 * C/Cpp
