@@ -3,6 +3,8 @@ Visial depictions of things, picture, diagram, drawing, art, 2d 3d 4d . Renderin
 
 Exploring relation, if there is any to be found with current tech, between graphics and artificial visual cortex.
 
+Exploding relation, caveats, with global warming and climate change modeling. 
+
 An excuse, suggested by a good man, to start a Cpp project.
 
 Organisations
@@ -20,4 +22,5 @@ References
 * Rendering, WP 
 * Shader, [WP](https://en.wikipedia.org/wiki/Shader)
 * Shading Language, [WP](https://en.wikipedia.org/wiki/Shading_language)
+* Systems engineering, WP, electrical engineering, ...
 
