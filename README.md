@@ -11,6 +11,7 @@ Programming
 * Shading Language, [WP](https://en.wikipedia.org/wiki/Shading_language)
 
 References
+* Compute shaders, stream processing, real time, high througput
 * GPU
 * Rendering, WP 
 * Shader, [WP](https://en.wikipedia.org/wiki/Shader)
