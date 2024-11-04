@@ -27,7 +27,8 @@ Hardware
 * FPGA
 
 References
-* Compute shaders, stream processing, real time, high throughput
+* Acceleration, WP
+* Compute shaders, WP, stream processing, real time, high throughput
 * Rendering, WP 
 * Shader, [WP](https://en.wikipedia.org/wiki/Shader)
 * Shading Language, [WP](https://en.wikipedia.org/wiki/Shading_language)
