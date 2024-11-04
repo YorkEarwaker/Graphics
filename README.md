@@ -17,9 +17,9 @@ Organisations
 
 Programming
 * Assembly
-* C/Cpp, single platform, sequencial programming, cpu, ISO
+* C/Cpp, single platform, sequencial programming, cpu, Cpp 17/20 ISO, 
 * Sycl, [WP](https://en.wikipedia.org/wiki/SYCL), [WS](https://sycl.tech/), heterogenous platforms, parallel programming, acceleration, streaming, multi platform/device, cpu/gpu/fpga, base Cpp 17/20 ISO, Khronos Group,
-* Vulkan, WS, Khronos Group, low level graphics processor programming,
+* Vulkan, WS, Khronos Group, low level graphics processor programming, 
 
 Hardware
 * CPU
