@@ -24,7 +24,8 @@ Programming
 Hardware
 * CPU
 * GPU
-* FPGA
+* Field Programmable Gate Arrays FPGA, 
+* Application Specific Integrated Circuits ASIC, 
 
 References
 * Acceleration, WP
