@@ -1,5 +1,5 @@
 # Graphics
-Visial depictions of things, picture, diagram, drawing, art, 2d 3d 4d . Rendering off line & real time.
+Visual depictions of things, picture, diagram, drawing, art, 2d 3d 4d . Rendering off line & real time.
 
 Exploring relation, if there is any to be found with current tech, between graphics and artificial visual cortex.
 
@@ -25,7 +25,8 @@ Hardware
 * CPU
 * GPU
 * Field Programmable Gate Arrays FPGA, 
-* Application Specific Integrated Circuits ASIC, 
+* Application Specific Integrated Circuits ASIC,
+* ...
 
 References
 * Acceleration, WP
