@@ -2,6 +2,10 @@
 
 Cpp
 
+### Status
+
+Objective
+* GPU shader code
 
 TODO
 * <todo: copy cpp project repository sturcture>
@@ -11,4 +15,13 @@ TODO
 DONE
 * <done: n/a>
 
+### Libraries
+
+CUDA
+* CUDA tutorial, docs, [WS](https://cuda-tutorial.readthedocs.io/en/latest/)
+* CUDA samples, [GH](https://github.com/nvidia/cuda-samples), Nvidia, disclaimer, [WS](https://docs.nvidia.com/cuda/cuda-samples/index.html)
+* 
+
 ## References
+
+* CUDA
