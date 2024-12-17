@@ -1,4 +1,6 @@
-# Graphics projects and related technology
+# Graphics 
+
+Graphics projects and related technology, shader, GPU, 
 
 As a direction of travel
 * Cpp 
