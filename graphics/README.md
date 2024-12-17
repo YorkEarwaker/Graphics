@@ -22,5 +22,8 @@ TODO
        computer engineering, 
        electircal engineering, 
        integrated circuit, >
+  
 DONE
 * <done: Initial directory structure, consider better project directory layout, work in progeress, interate see automation rep and cpp repository structure, >
+
+### References
