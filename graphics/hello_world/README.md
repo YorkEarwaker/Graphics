@@ -27,6 +27,7 @@ CUDA
 MPI
 * OpenMPI, org [WS](https://www.open-mpi.org/), 
 * MPI forum, org [WS](https://www.mpi-forum.org/),
+* OpenMP [WS](https://www.openmp.org/), paralell programming , C/C++, Fortran,
 * 
 
 ## References
