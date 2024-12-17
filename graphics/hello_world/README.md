@@ -2,10 +2,12 @@
 
 Cpp
 
+Requires Linux system?, Is Ubuntu fit for purpose? 
+
 ### Status
 
 Objective
-* GPU shader code
+* GPU shader code, 
 
 TODO
 * <todo: copy cpp project repository sturcture>
@@ -20,7 +22,7 @@ DONE
 CUDA
 * CUDA tutorial, docs, [WS](https://cuda-tutorial.readthedocs.io/en/latest/)
 * CUDA samples, [GH](https://github.com/nvidia/cuda-samples), Nvidia, disclaimer, [WS](https://docs.nvidia.com/cuda/cuda-samples/index.html)
-* 
+* CUDA download, 
 
 ## References
 
