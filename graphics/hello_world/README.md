@@ -22,8 +22,14 @@ DONE
 CUDA
 * CUDA tutorial, docs, [WS](https://cuda-tutorial.readthedocs.io/en/latest/)
 * CUDA samples, [GH](https://github.com/nvidia/cuda-samples), Nvidia, disclaimer, [WS](https://docs.nvidia.com/cuda/cuda-samples/index.html)
-* CUDA download, 
+* CUDA download,
+
+MPI
+* OpenMPI, org [WS](https://www.open-mpi.org/), 
+* MPI forum, org [WS](https://www.mpi-forum.org/),
+* 
 
 ## References
 
-* CUDA
+* CUDA, 
+* MPI, message passing interface, 
