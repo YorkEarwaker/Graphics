@@ -2,7 +2,7 @@
 
 Cpp
 
-Requires Linux system?, Is Ubuntu fit for purpose? 
+If Linux Is Ubuntu fit for purpose? Win is an option.
 
 ### Status
 
