@@ -25,6 +25,9 @@ Languages
 * Sycl, [WP](https://en.wikipedia.org/wiki/SYCL), [WS](https://sycl.tech/), heterogenous platforms, parallel programming, acceleration, streaming, multi platform/device, cpu/gpu/fpga, base Cpp 17/20 ISO, Khronos Group,
 * Vulkan, WS, Khronos Group, low level graphics processor programming, 
 
+Libs
+* Mesa [WS](https://en.wikipedia.org/wiki/Mesa_(computer_graphics)), graphics driver
+
 ## Hardware
 * CPU
 * GPU
